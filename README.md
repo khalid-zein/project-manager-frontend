@@ -22,3 +22,5 @@ The following features must be completed in order to consider your submission as
 ## Project Specifications
 
 ### General Technical Requirements
+
+Below are some of the general technical expectations required to be followed during the project period.
