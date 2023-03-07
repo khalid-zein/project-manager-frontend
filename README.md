@@ -34,4 +34,5 @@ Below are some of the general technical expectations required to be followed dur
   <li>Your app must be a REACT frontend that accesses data from  your SINATRA backend. All client and API interactions should be handled asynchronously  and use JSON as the communication format.</li>
   <li>Your entire app must run on a single page. There should be NO redirects. In other words, your project will contain a single HTML file.</li>
   <li>Follow good coding practices. Keep your code DRY (Do not repeat yourself) by utilizing functions to abstract repetitive code.</li>
+  <li>Your repository should include a license. (Adding a license to a repository - GitHub Docs) </li>
 </ol>
