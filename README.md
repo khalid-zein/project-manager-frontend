@@ -29,4 +29,5 @@ Below are some of the general technical expectations required to be followed dur
   <li>Every single repository should have a detailed README file explaining how to set up the codebase upon cloning/forking </li>
   <li>You should have regular git commits, and the messages should be clear and concise.</li>
   <Li>Your application must be deployed and accessible through a remote URL. (You can choose whichever deployment platform you wish)</li>
+  <li>Your project should be structured in an organized manner.</li>
 </ol>
