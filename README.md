@@ -24,3 +24,7 @@ The following features must be completed in order to consider your submission as
 ### General Technical Requirements
 
 Below are some of the general technical expectations required to be followed during the project period.
+
+<ol>
+  <li>Every single repository should have a detailed README file explaining how to set up the codebase upon cloning/forking </li>
+</ol>
