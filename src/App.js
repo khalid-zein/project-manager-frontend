@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes} from 'react-router-dom';
 import './App.css';
 import React, {useState} from 'react';
+import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 
@@ -14,6 +15,7 @@ function App() {
         <Routes>
           <Route path='/' element={ <Home /> } />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );
