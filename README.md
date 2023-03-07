@@ -13,4 +13,5 @@ The following features must be completed in order to consider your submission as
   <li>A user should be able to add other users as members of the project.</li>
   <li>Members of a project should be able to update the status of the project.</li>
   <li>A user should  be able to view all the projects.</li>
+  <li>A user should be able delete a project.</li>
 </ol>
