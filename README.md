@@ -20,3 +20,5 @@ The following features must be completed in order to consider your submission as
 
 
 ## Project Specifications
+
+### General Technical Requirements
