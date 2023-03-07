@@ -37,3 +37,8 @@ Below are some of the general technical expectations required to be followed dur
   <li>Your repository should include a license. (Adding a license to a repository - GitHub Docs) </li>
   <li>Your project MVP MUST be completed within the stipulated timeline.</li>
 </ol>
+
+
+### Author
+
+Khalid Zein
