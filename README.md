@@ -42,3 +42,8 @@ Below are some of the general technical expectations required to be followed dur
 ### Author
 
 Khalid Zein
+
+
+### License
+
+MIT
