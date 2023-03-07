@@ -10,4 +10,5 @@ The following features must be completed in order to consider your submission as
 <ol type="I">
   <li>Users should be able to register / login to the application.</li>
   <li>A user should be able to create a project and add details about it.</li>
+  <li>A user should be able to add other users as members of the project.</li>
 </ol>
