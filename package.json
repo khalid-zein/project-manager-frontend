@@ -1,5 +1,6 @@
 {
   "name": "project-manager-frontend",
+  "homepage": "https://khalid-zein.github.io/project-manager-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,6 +43,5 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.2.7"
-  },
-  "homepage": "https://{khalid-zein}.github.io/{project-manager-frontend}"
+  }
 }
