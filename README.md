@@ -32,4 +32,5 @@ Below are some of the general technical expectations required to be followed dur
   <li>Your project should be structured in an organized manner.</li>
   <li>Your web application should have proper styling. Ensure it looks professional and clean.</li>
   <li>Your app must be a REACT frontend that accesses data from  your SINATRA backend. All client and API interactions should be handled asynchronously  and use JSON as the communication format.</li>
+  <li>Your entire app must run on a single page. There should be NO redirects. In other words, your project will contain a single HTML file.</li>
 </ol>
