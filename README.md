@@ -31,4 +31,5 @@ Below are some of the general technical expectations required to be followed dur
   <Li>Your application must be deployed and accessible through a remote URL. (You can choose whichever deployment platform you wish)</li>
   <li>Your project should be structured in an organized manner.</li>
   <li>Your web application should have proper styling. Ensure it looks professional and clean.</li>
+  <li>Your app must be a REACT frontend that accesses data from  your SINATRA backend. All client and API interactions should be handled asynchronously  and use JSON as the communication format.</li>
 </ol>
