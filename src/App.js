@@ -4,6 +4,7 @@ import React, {useState} from 'react';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
+import Login from './pages/Login';
 import Signup from './pages/Signup';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Navbar loggedIn={loggedIn} setLoggedIn={setLoggedIn}/>
         <Routes>
           <Route path='/' element={ <Home /> } />
+          <Route path='/login' element={ <Login loggedIn={loggedIn} setLoggedIn={setLoggedIn} /> }/>
           <Route path='/signup' element={ <Signup loggedIn={loggedIn} setLoggedIn={setLoggedIn}/> }/>
         </Routes>
         <Footer />
