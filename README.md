@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Project Management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Keeping track of your projects can be daunting and very time consuming if not managed well. Your task is to build an application that allows its users to  manage their projects.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Minimum Viable Product
 
-### `npm start`
+The following features must be completed in order to consider your submission as valid:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<ol type="I">
+  <li>Users should be able to register / login to the application.</li>
+  <li>A user should be able to create a project and add details about it.</li>
+  <li>A user should be able to add other users as members of the project.</li>
+  <li>Members of a project should be able to update the status of the project.</li>
+  <li>A user should  be able to view all the projects.</li>
+  <li>A user should be able delete a project.</li>
+  <li>A user should be able to view all the status updates of the project.</li>
+  <li>In order to use the application, the user must be logged in.</li>
+</ol>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Project Specifications
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### General Technical Requirements
 
-### `npm run build`
+Below are some of the general technical expectations required to be followed during the project period.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<ol>
+  <li>Every single repository should have a detailed README file explaining how to set up the codebase upon cloning/forking </li>
+  <li>You should have regular git commits, and the messages should be clear and concise.</li>
+  <Li>Your application must be deployed and accessible through a remote URL. (You can choose whichever deployment platform you wish)</li>
+  <li>Your project should be structured in an organized manner.</li>
+  <li>Your web application should have proper styling. Ensure it looks professional and clean.</li>
+  <li>Your app must be a REACT frontend that accesses data from  your SINATRA backend. All client and API interactions should be handled asynchronously  and use JSON as the communication format.</li>
+  <li>Your entire app must run on a single page. There should be NO redirects. In other words, your project will contain a single HTML file.</li>
+  <li>Follow good coding practices. Keep your code DRY (Do not repeat yourself) by utilizing functions to abstract repetitive code.</li>
+  <li>Your repository should include a license. (Adding a license to a repository - GitHub Docs) </li>
+  <li>Your project MVP MUST be completed within the stipulated timeline.</li>
+</ol>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Author
 
-### `npm run eject`
+Khalid Zein
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+MIT
