@@ -7,5 +7,6 @@ Keeping track of your projects can be daunting and very time consuming if not ma
 
 The following features must be completed in order to consider your submission as valid:
 
-<ol>
+<ol type="I">
+  <li>Users should be able to register / login to the application.</li>
 </ol>
