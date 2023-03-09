@@ -1,7 +1,5 @@
 {
   "name": "project-manager-frontend",
-  "homepage": "https://khalid-zein.github.io/project-manager-frontend",
-  "deploy": "gh-pages -b main -d build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
